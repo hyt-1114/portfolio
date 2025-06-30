@@ -1,26 +1,24 @@
-# Portfolio
-week9終盤以降で用いる、ポートフォリオ用GitHubの例です
+# 売上管理アプリ
+前年比との比較を行いながら売り上げを管理できるアプリです。
 
 ## アプリ概要
 例：Next.jsとSupabaseを用いた売上管理アプリです。  
 
 
 ## サイトイメージ
-メインページの画像を貼れると良いです。
+
 
 ![トップ画面](https://github.com/user-attachments/assets/98c17db6-663d-4015-b437-e0168f594548?raw=true)
 )
 
 ## サイトURL
 
-デプロイした後のアプリのメインページURLを貼りましょう。  
+ 
 https://sale-date.vercel.app/
 
-「画面中部のゲストログインボタンから、メールアドレスとパスワードを入力せずにログインできます。」といった仕様を作れれば、面接官も試しやすいと思います。
 
 ## 使用技術
-- フロントエンド：Next.js 15.3
-- バックエンド：Next.js 15.3、~Python 3.13.3（FastAPI0.115.12）~
+- フロントエンド：Next.js 15、TypeScript、CSS、React
 - データベース：Supabase
 - デプロイ：Vercel
 - バージョン管理：Git、GitHub
@@ -30,16 +28,16 @@ https://sale-date.vercel.app/
 ※箇条書きは「-」のあとに空白を入れて本文を始めることで可能です。
 
 ## 設計ドキュメント
-[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1yBssPgoUI_8TMwVZA2hWOLQj3-l7oirLB2FQ1YJgCww/edit?usp=sharing)
+[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1CoIp7VZV6jDrFn8dmfXSO_Z-D9Jl9h1MHFOEamUtgF0/edit?gid=74722085#gid=74722085)
 
 詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](./docs)）
 
 ※[]の中に表示文を書き、その後ろで()の中にURLを入れればハイパーリンク化できます。
 
 ## 機能一覧
-- ユーザー登録、ログイン機能（メールアドレスとパスワード）
 - AI分析機能
-- Excel連携
+- スプレッドシート連携
+- スプレッドシートをもとにグラフ表示
   
 
 ※空白を2つ開けて「-」から始めることで、箇条書きが2段目になります。三段目は空白を4つ開ければ可能です。
