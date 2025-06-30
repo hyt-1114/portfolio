@@ -8,12 +8,13 @@ week9終盤以降で用いる、ポートフォリオ用GitHubの例です
 ## サイトイメージ
 メインページの画像を貼れると良いです。
 
-![アプリ画面](https://github.com/aihat9161/PortfolioExample_WorX_ENGINEER-CLASS/blob/f72a921271bddc8d47744118a0838061c302a9d7/docs/%E3%82%A2%E3%83%97%E3%83%AA%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8%E7%94%BB%E5%83%8F.jpg?raw=true)
+![トップ画面](https://github.com/user-attachments/assets/98c17db6-663d-4015-b437-e0168f594548?raw=true)
+)
 
 ## サイトURL
 
 デプロイした後のアプリのメインページURLを貼りましょう。  
-
+https://sale-date.vercel.app/
 
 「画面中部のゲストログインボタンから、メールアドレスとパスワードを入力せずにログインできます。」といった仕様を作れれば、面接官も試しやすいと思います。
 
